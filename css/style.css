@@ -12,9 +12,40 @@ body {
 
 .wrapper {
 	width: 960px;
+	margin-top: 0px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
+
+#zetsy {
+	color: #9eb5ae;
+	font-size: 60px;
+	font-family: 'Baskerville', serif;
+}
+
+.necklace {
+	padding: 0;
+	border: 5px solid #9eb5ae;
+}
+
+#about {
+	color: #9eb5ae;
+	font-size: 2rem;
+}
+
+#press {
+	color: #9eb5ae;
+	font-size: 2rem;
+}
+
+.press-img {
+	border: 5px solid #9eb5ae;
+}
+
+footer {
+	text-align: right;
+	background: #fff;
+}
